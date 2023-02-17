@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -28,25 +27,25 @@
 
 </div>
    
-<h4 class="uno"> Datos personales </h4>
+<h4 class="uno">Datos personales</h4>
 
 <ul>
     <li >DNI/CUIL: 20-17044798-6</li>
     <li >Fecha de nacimiento: 10/11/1969</li>
     <li >Domicilio: Villa Elisa, La Plata</li>
     <li >Nacionalidad: Argentina</li>
-    <li > <a href="mailto:josecapacitaciondocente@gmail.com"> Correo electrónico:  CV@gmail.com</a> </li><br>
+    <li > <a href="mailto:josecapacitaciondocente@gmail.com"> Correo electrónico: CV@gmail.com</a> </li><br>
 </ul>
 
-<h4 class="uno"> Idiomas</h4>
+<h4 class="uno">Idiomas</h4>
 
 <ul>
     <li>Inglés: (C1)</li>
     <li>Alemán: (A1)</li>
-    <li>Portuguéz:(C1)</li>
+    <li>Portugués:(C1)</li>
 </ul>
 
-<h4 class="uno"> Habilidades</h4>
+<h4 class="uno">Habilidades</h4>
 <ul>
     <li>Gestión de equipo</li>
     <li>Planificación estratégica</li>
@@ -62,7 +61,7 @@
 
 <h1 class=" dos">José Angel Reyes</h1><br>
 
-<h4 class="uno"> Experiencia</h4><br>
+<h4 class="uno">Experiencia</h4><br>
 
 <ul>
     <li> <a href= "https://meranol.com.ar/" target = "_blank"> Calculista en oficina técnica Fábrica de Acído Sulfúrico Meranol</li></a><br>
@@ -77,7 +76,7 @@
 </ul>
 
 
-<h4 class="uno"> Educación Formal</h4>
+<h4 class="uno">Educación Formal</h4>
 <br>
 <ul>
     <li> <a href="https://www.frlp.utn.edu.ar/" target="_blank"> Ingeniero Electricista 1983-1990 UTN FRLP </li></a><br>
